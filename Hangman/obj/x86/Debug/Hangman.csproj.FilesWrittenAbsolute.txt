@@ -1,0 +1,5 @@
+/Users/adeouthman/Documents/AdeolasCodingStuff/C# Projects/Hangman/Hangman/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adeouthman/Documents/AdeolasCodingStuff/C# Projects/Hangman/Hangman/bin/Debug/Hangman.exe.mdb
+/Users/adeouthman/Documents/AdeolasCodingStuff/C# Projects/Hangman/Hangman/bin/Debug/Hangman.exe
+/Users/adeouthman/Documents/AdeolasCodingStuff/C# Projects/Hangman/Hangman/obj/x86/Debug/Hangman.exe
+/Users/adeouthman/Documents/AdeolasCodingStuff/C# Projects/Hangman/Hangman/obj/x86/Debug/Hangman.exe.mdb
